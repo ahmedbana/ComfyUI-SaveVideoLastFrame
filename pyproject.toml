@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-save-video-last-frame"
+description = "Save the last frame of a VIDEO as a PNG into ComfyUI's input directory."
+version = "1.0.0"
+license = { text = "MIT" }
+readme = "README.md"
+
+[project.urls]
+Repository = "https://github.com/ahmedbana/ComfyUI-SaveVideoLastFrame"
+
+[tool.comfy]
+PublisherId = "ahmedbana"
+DisplayName = "Save Video Last Frame"
